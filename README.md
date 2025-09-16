@@ -11,12 +11,11 @@
   - Full-Stack Manga E-commerce Website.
   - PageByPage is a manga e-commerce website that allows users to browse and purchase manga, featuring secure user accounts, multi-page navigation, and dynamic listings.
 
-<h2>Connect with me:</h2>
+<h3>Connect with me:</h3>
 
 [<img align="left" alt="AdanSantos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/adan-santos-36a30824a/
-
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
