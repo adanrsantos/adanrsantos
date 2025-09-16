@@ -1,11 +1,13 @@
-<h1>Hi, I'm Adan! <br/><a href="https://github.com/adanrsantos">Software Developer</a>, <a href="https://www.linkedin.com/in/adan-santos-36a30824a/">LinkedIn</a></h1>
+<h1>Hi, I'm Adan! <br/>Software Developer, <a href="https://www.linkedin.com/in/adan-santos-36a30824a/">LinkedIn</a></h1>
 
 <h2>Software Development Projects:</h2>
 
-- <b>Add Project Name here</b>
-  - [Blah Blah Blah](https://github.com/adanrsantos)
-- <b>Add Project Name here</b>
-  - [Blah Blah Blah](https://github.com/adanrsantos)
+- <b>[ACM RowdyHacksXI Website](https://github.com/acmutsa/RowdyHacksXI)</b>
+  - A website built on HACKKIT for UTSA's ACM organization, allowing users to learn about RowdyHacksXI and register for the event.
+  - Website: https://rowdyhacks.org/
+- <b>[PageByPage E-commerce Website](https://github.com/adanrsantos/PageByPage)</b>
+  - Full-Stack Manga E-commerce Website.
+  - PageByPage is a manga e-commerce website that allows users to browse and purchase manga, featuring secure user accounts, multi-page navigation, and dynamic listings.
 
 <h2>Connect with me:</h2>
 
