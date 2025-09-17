@@ -2,7 +2,7 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>[ACM RowdyHacksXI Website](https://github.com/acmutsa/RowdyHacksXI)</b>
+- <b>[ACM RowdyHacksXI](https://github.com/acmutsa/RowdyHacksXI)</b>
   - A website built on Hackkit for UTSA's ACM organization, allowing users to learn about RowdyHacksXI and register for the event.
   - Website: https://rowdyhacks.org/
 - <b>[ACM Hackkit](https://github.com/acmutsa/HackKit)</b>
